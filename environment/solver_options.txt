@@ -1,0 +1,13 @@
+AC optimal power flow:
+  MATLAB function: runopf
+  MATPOWER option overrides:
+    mpoption('verbose', 0, 'out.all', 0)
+  Resolved solver in the reported environment: DEFAULT, which selected MIPS 1.5.2.
+  Branch loading definition:
+    max(hypot(PF,QF), hypot(PT,QT)) / RATE_A
+  Parallel workers used in stochastic runs: 6
+  Computer architecture: win64 / PCWIN64
+
+Reproducibility note:
+  The scripts use numeric MATPOWER column indices inside parfor-sensitive code
+  rather than calling define_constants inside a parfor loop.

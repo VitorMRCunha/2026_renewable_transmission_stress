@@ -1,0 +1,32 @@
+MATLABRelease,MATPOWERVersion,ResolvedACOPFSolver,ParallelWorkersAtSetup,ComputerArchitecture
+2024b,MATPOWER               Version 8.1        12-Jul-2025
+MATLAB                 Version 24.2       21-Jun-2024   Release: (R2024b)  
+Optimization Toolbox   Version 24.2       21-Jun-2024   Release: (R2024b)  
+MP-Test                Version 8.1        05-Jul-2025
+MIPS                   Version 1.5.2      12-Jul-2025
+MP-Opt-Model           Version 5.0        12-Jul-2025
+MOST                   Version 1.3.1      12-Jul-2025
+SDP_PF                 -- not installed --
+SynGrid                Version 1.0.2      14-May-2024
+Artelys Knitro         -- not installed --
+BPMPD_MEX              -- not installed --
+CLP                    -- not installed --
+CPLEX                  -- not installed --
+GLPK                   -- not installed --
+Gurobi                 -- not installed --
+HiGHS                  -- not installed --
+IPOPT                  -- not installed --
+MINOPF                 -- not installed --
+MOSEK                  -- not installed --
+OSQP                   -- not installed --
+PARDISO                -- not installed --
+PDIPMOPF               -- not installed --
+SCPDIPMOPF             -- not installed --
+SDPT3                  -- not installed --
+SeDuMi                 -- not installed --
+TRALMOPF               -- not installed --
+YALMIP                 -- not installed --
+Architecture:          PCWIN64
+
+  MATPOWER 8.1 is distributed under the 3-clause BSD License.
+  Please see the LICENSE file for details.,DEFAULT,6,win64
