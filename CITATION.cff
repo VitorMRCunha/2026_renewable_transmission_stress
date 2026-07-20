@@ -9,7 +9,7 @@ authors:
     given-names: "Vitor M. R."
 version: "1.0.0-rc1"
 date-released: "2026-07-20"
-repository-code: "REPLACE_WITH_PUBLIC_REPOSITORY_URL"
+repository-code: "https://github.com/VitorMRCunha/2026_renewable_transmission_stress.git"
 doi: "REPLACE_WITH_ARCHIVAL_DOI"
 license: "BSD-3-Clause"
 keywords:
