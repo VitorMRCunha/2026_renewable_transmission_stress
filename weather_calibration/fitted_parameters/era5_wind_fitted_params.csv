@@ -1,0 +1,8 @@
+parameter,value
+k_weibull,2.3622
+c_weibull_ms,5.8552
+rho_ar1,0.9059
+KS_statistic,0.01526
+KS_pvalue,0.0
+PDF_RMSE,0.00554
+n_samples,394416.0

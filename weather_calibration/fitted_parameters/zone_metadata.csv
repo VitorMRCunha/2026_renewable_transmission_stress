@@ -1,0 +1,7 @@
+zone,description,lat,lon
+Z1_NW,Generic north-west zone,41.15,-8.6
+Z2_NE,Generic north-east zone,41.5,-6.75
+Z3_CW,Generic central-west zone,40.2,-8.4
+Z4_CI,Generic central-interior zone,39.75,-7.5
+Z5_SW,Generic south-west zone,37.95,-8.65
+Z6_SE,Generic south-east zone,38.05,-7.4
