@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the archived release and the associated paper."
+title: "Multi-site renewable transmission-stress analysis"
+type: software
+authors:
+  - family-names: "Azevedo"
+    given-names: "Filipe"
+  - family-names: "Cunha"
+    given-names: "Vitor M. R."
+version: "1.0.0-rc1"
+date-released: "2026-07-20"
+repository-code: "REPLACE_WITH_PUBLIC_REPOSITORY_URL"
+doi: "REPLACE_WITH_ARCHIVAL_DOI"
+license: "BSD-3-Clause"
+keywords:
+  - probabilistic AC optimal power flow
+  - renewable integration
+  - transmission congestion
+  - spatial correlation
+  - Monte Carlo convergence
+  - N-1 contingency
+  - PVGIS
+  - ERA5
