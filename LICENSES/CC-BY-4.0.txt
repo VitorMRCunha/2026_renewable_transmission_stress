@@ -1,0 +1,8 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Original documentation, figures, and generated result tables may be shared
+and adapted for any purpose, including commercially, provided that appropriate
+credit is given, a link to the licence is provided, and changes are indicated.
+
+Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
