@@ -10,7 +10,7 @@ authors:
 version: "1.0.0-rc1"
 date-released: "2026-07-20"
 repository-code: "https://github.com/VitorMRCunha/2026_renewable_transmission_stress.git"
-doi: "REPLACE_WITH_ARCHIVAL_DOI"
+doi: "10.5281/zenodo.21463187"
 license: "BSD-3-Clause"
 keywords:
   - probabilistic AC optimal power flow
