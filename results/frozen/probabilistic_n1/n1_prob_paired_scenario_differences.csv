@@ -1,0 +1,141 @@
+contingency_id,outage_branch_idx,outage_branch,contrast,metric,estimate,bootstrap_se,ci_low,ci_high,unit
+1,38,26-30,S1-S3_low_conc_minus_dist,daily_cost,-900.012127174618,907.4339171534,-2745.84441638481,976.228408894686,currency/day
+1,38,26-30,S1-S3_low_conc_minus_dist,daily_loss_MWh,8.96887490858436,0.83819967974477,7.16226394363533,10.6552353766715,MWh/day
+1,38,26-30,S1-S3_low_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+1,38,26-30,S1-S3_low_conc_minus_dist,wind_curt_MWh,0,0,0,0,MWh/day
+1,38,26-30,S1-S3_low_conc_minus_dist,curtailed_hours,0,0,0,0,h/day
+1,38,26-30,S2-S4_high_conc_minus_dist,daily_cost,-282.078805351801,1787.79568371794,-4027.92931302932,3198.87692162655,currency/day
+1,38,26-30,S2-S4_high_conc_minus_dist,daily_loss_MWh,69.0717535907892,2.61638562237372,63.8887741043042,74.3435591232484,MWh/day
+1,38,26-30,S2-S4_high_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+1,38,26-30,S2-S4_high_conc_minus_dist,wind_curt_MWh,0.177561280903446,0.0944596224109495,0.0219910595987058,0.366118091606245,MWh/day
+1,38,26-30,S2-S4_high_conc_minus_dist,curtailed_hours,0.0275,0.0147981365275963,0.0025,0.0625,h/day
+1,38,26-30,S2-S1_high_minus_low_conc,daily_cost,-44370.525830964,1207.03997952287,-46833.7343883494,-42043.3146021764,currency/day
+1,38,26-30,S2-S1_high_minus_low_conc,daily_loss_MWh,50.1296969157877,2.62270318652498,45.3560504452535,55.2162825640282,MWh/day
+1,38,26-30,S2-S1_high_minus_low_conc,solar_curt_MWh,0,0,0,0,MWh/day
+1,38,26-30,S2-S1_high_minus_low_conc,wind_curt_MWh,0.177561280903446,0.0991408784039612,0.0219910595987056,0.411079893271937,MWh/day
+1,38,26-30,S2-S1_high_minus_low_conc,curtailed_hours,0.0275,0.0150875293565305,0.005,0.06,h/day
+1,38,26-30,S4-S3_high_minus_low_dist,daily_cost,-44988.4591527869,977.615105439281,-46792.3052927038,-43008.6857952377,currency/day
+1,38,26-30,S4-S3_high_minus_low_dist,daily_loss_MWh,-9.9731817664171,0.923143973368374,-11.6265464203144,-7.99262903224254,MWh/day
+1,38,26-30,S4-S3_high_minus_low_dist,solar_curt_MWh,0,0,0,0,MWh/day
+1,38,26-30,S4-S3_high_minus_low_dist,wind_curt_MWh,0,0,0,0,MWh/day
+1,38,26-30,S4-S3_high_minus_low_dist,curtailed_hours,0,0,0,0,h/day
+2,8,8-5,S1-S3_low_conc_minus_dist,daily_cost,-1132.12207911462,927.927949238771,-3052.82923135303,707.656768812881,currency/day
+2,8,8-5,S1-S3_low_conc_minus_dist,daily_loss_MWh,0.460110507825049,0.973201146222303,-1.33394558283414,2.44121479668707,MWh/day
+2,8,8-5,S1-S3_low_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+2,8,8-5,S1-S3_low_conc_minus_dist,wind_curt_MWh,0,0,0,0,MWh/day
+2,8,8-5,S1-S3_low_conc_minus_dist,curtailed_hours,0,0,0,0,h/day
+2,8,8-5,S1-S3_low_conc_minus_dist,LCP80_branch_26_30_pp,0.322916666666667,0.141115788887755,0.0625,0.625,percentage points
+2,8,8-5,S2-S4_high_conc_minus_dist,daily_cost,-571.671130737994,1744.84976246878,-3926.39696176985,2890.09966472865,currency/day
+2,8,8-5,S2-S4_high_conc_minus_dist,daily_loss_MWh,56.3784691037274,2.90827959495147,51.031378383388,62.1767213033327,MWh/day
+2,8,8-5,S2-S4_high_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+2,8,8-5,S2-S4_high_conc_minus_dist,wind_curt_MWh,0.248501862396776,0.136503004841903,0.0347534114133248,0.583548701687633,MWh/day
+2,8,8-5,S2-S4_high_conc_minus_dist,curtailed_hours,0.0275,0.0146218354231705,0.0025,0.06,h/day
+2,8,8-5,S2-S4_high_conc_minus_dist,LCP80_branch_26_30_pp,1.72916666666667,0.307594493461782,1.125,2.35416666666667,percentage points
+2,8,8-5,S2-S1_high_minus_low_conc,daily_cost,-44644.8713507604,1219.55660545728,-47095.3606493222,-42305.1661429599,currency/day
+2,8,8-5,S2-S1_high_minus_low_conc,daily_loss_MWh,44.7661175681719,2.80393303426582,39.2598778808808,49.8787837851658,MWh/day
+2,8,8-5,S2-S1_high_minus_low_conc,solar_curt_MWh,0,0,0,0,MWh/day
+2,8,8-5,S2-S1_high_minus_low_conc,wind_curt_MWh,0.248501862396776,0.129503279682722,0.0288483256313603,0.543228756131574,MWh/day
+2,8,8-5,S2-S1_high_minus_low_conc,curtailed_hours,0.0275,0.0149006395203774,0.005,0.06,h/day
+2,8,8-5,S2-S1_high_minus_low_conc,LCP80_branch_26_30_pp,1.79166666666667,0.284751359632424,1.3125,2.39583333333333,percentage points
+2,8,8-5,S4-S3_high_minus_low_dist,daily_cost,-45205.322299137,954.69630228611,-46904.4954212661,-43342.8825913325,currency/day
+2,8,8-5,S4-S3_high_minus_low_dist,daily_loss_MWh,-11.1522410277305,0.854676622090996,-12.7583351525177,-9.55659380412576,MWh/day
+2,8,8-5,S4-S3_high_minus_low_dist,solar_curt_MWh,0,0,0,0,MWh/day
+2,8,8-5,S4-S3_high_minus_low_dist,wind_curt_MWh,0,0,0,0,MWh/day
+2,8,8-5,S4-S3_high_minus_low_dist,curtailed_hours,0,0,0,0,h/day
+2,8,8-5,S4-S3_high_minus_low_dist,LCP80_branch_26_30_pp,0.385416666666667,0.0901382487495535,0.21875,0.5625,percentage points
+3,32,26-25,S1-S3_low_conc_minus_dist,daily_cost,-1058.7213324559,909.787692670198,-2874.25337700702,633.666533611279,currency/day
+3,32,26-25,S1-S3_low_conc_minus_dist,daily_loss_MWh,3.995874442003,1.3739477944787,1.375578718698,6.76745238970469,MWh/day
+3,32,26-25,S1-S3_low_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+3,32,26-25,S1-S3_low_conc_minus_dist,wind_curt_MWh,0,0,0,0,MWh/day
+3,32,26-25,S1-S3_low_conc_minus_dist,curtailed_hours,0,0,0,0,h/day
+3,32,26-25,S1-S3_low_conc_minus_dist,LCP80_branch_26_30_pp,0,0,0,0,percentage points
+3,32,26-25,S2-S4_high_conc_minus_dist,daily_cost,-631.757871519352,1791.34258288198,-4106.22522787902,2495.89998950739,currency/day
+3,32,26-25,S2-S4_high_conc_minus_dist,daily_loss_MWh,59.380498392545,3.16474470425953,53.2196431010713,66.1811676614418,MWh/day
+3,32,26-25,S2-S4_high_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+3,32,26-25,S2-S4_high_conc_minus_dist,wind_curt_MWh,0.357073947513548,0.1931863911467,0.0383618770749248,0.752509772102021,MWh/day
+3,32,26-25,S2-S4_high_conc_minus_dist,curtailed_hours,0.0275,0.0143042239091566,0.005,0.0625,h/day
+3,32,26-25,S2-S4_high_conc_minus_dist,LCP80_branch_26_30_pp,-0.177083333333333,0.0881427070034802,-0.354166666666667,-0.0208333333333334,percentage points
+3,32,26-25,S2-S1_high_minus_low_conc,daily_cost,-44683.7817392919,1214.13450563118,-47287.0768965047,-42405.594719561,currency/day
+3,32,26-25,S2-S1_high_minus_low_conc,daily_loss_MWh,46.0118205875003,2.90038953916769,40.3234405826687,51.6080475636192,MWh/day
+3,32,26-25,S2-S1_high_minus_low_conc,solar_curt_MWh,0,0,0,0,MWh/day
+3,32,26-25,S2-S1_high_minus_low_conc,wind_curt_MWh,0.357073947513548,0.196019849085775,0.0275440936898207,0.77514460932635,MWh/day
+3,32,26-25,S2-S1_high_minus_low_conc,curtailed_hours,0.0275,0.014715406429071,0.005,0.0625,h/day
+3,32,26-25,S2-S1_high_minus_low_conc,LCP80_branch_26_30_pp,-0.177083333333333,0.0859264930654812,-0.364583333333333,-0.0208333333333334,percentage points
+3,32,26-25,S4-S3_high_minus_low_dist,daily_cost,-45110.7452002285,969.087528360467,-47086.4994998588,-43245.2171808727,currency/day
+3,32,26-25,S4-S3_high_minus_low_dist,daily_loss_MWh,-9.37280336304168,1.06603917626553,-11.5958262569382,-7.31864913720898,MWh/day
+3,32,26-25,S4-S3_high_minus_low_dist,solar_curt_MWh,0,0,0,0,MWh/day
+3,32,26-25,S4-S3_high_minus_low_dist,wind_curt_MWh,0,0,0,0,MWh/day
+3,32,26-25,S4-S3_high_minus_low_dist,curtailed_hours,0,0,0,0,h/day
+3,32,26-25,S4-S3_high_minus_low_dist,LCP80_branch_26_30_pp,0,0,0,0,percentage points
+4,31,23-25,S1-S3_low_conc_minus_dist,daily_cost,-981.905098584507,927.626977413283,-2871.94199620685,935.638180061568,currency/day
+4,31,23-25,S1-S3_low_conc_minus_dist,daily_loss_MWh,5.31659600715424,1.27348933912765,2.9171602459661,7.7402324385209,MWh/day
+4,31,23-25,S1-S3_low_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+4,31,23-25,S1-S3_low_conc_minus_dist,wind_curt_MWh,0,0,0,0,MWh/day
+4,31,23-25,S1-S3_low_conc_minus_dist,curtailed_hours,0,0,0,0,h/day
+4,31,23-25,S1-S3_low_conc_minus_dist,LCP80_branch_26_30_pp,0,0,0,0,percentage points
+4,31,23-25,S2-S4_high_conc_minus_dist,daily_cost,-458.448970982193,1879.7377707609,-4448.89481979302,3243.82457284351,currency/day
+4,31,23-25,S2-S4_high_conc_minus_dist,daily_loss_MWh,62.9450769461161,3.09394524387596,56.8917702338326,69.2772895506351,MWh/day
+4,31,23-25,S2-S4_high_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+4,31,23-25,S2-S4_high_conc_minus_dist,wind_curt_MWh,0.253345477379024,0.135966168757878,0.0291696979173441,0.547114185960685,MWh/day
+4,31,23-25,S2-S4_high_conc_minus_dist,curtailed_hours,0.0275,0.0144512959595262,0.00250000000000003,0.0575,h/day
+4,31,23-25,S2-S4_high_conc_minus_dist,LCP80_branch_26_30_pp,-0.25,0.121787916221272,-0.520833333333333,-0.0625,percentage points
+4,31,23-25,S2-S1_high_minus_low_conc,daily_cost,-44335.8487020512,1185.20161515964,-46665.0254148016,-42077.6183953848,currency/day
+4,31,23-25,S2-S1_high_minus_low_conc,daily_loss_MWh,53.9761881553997,2.91183314813022,48.0690679675952,59.6094620371094,MWh/day
+4,31,23-25,S2-S1_high_minus_low_conc,solar_curt_MWh,0,0,0,0,MWh/day
+4,31,23-25,S2-S1_high_minus_low_conc,wind_curt_MWh,0.253345477379024,0.134501430378914,0.0358323292641012,0.553776817307442,MWh/day
+4,31,23-25,S2-S1_high_minus_low_conc,curtailed_hours,0.0275,0.0149057652831834,0.005,0.06,h/day
+4,31,23-25,S2-S1_high_minus_low_conc,LCP80_branch_26_30_pp,-0.25,0.119899930383869,-0.520833333333333,-0.0416666666666666,percentage points
+4,31,23-25,S4-S3_high_minus_low_dist,daily_cost,-44859.3048296536,1028.89932327893,-46858.0670474485,-42784.7739998138,currency/day
+4,31,23-25,S4-S3_high_minus_low_dist,daily_loss_MWh,-3.65229278356215,0.977533946300384,-5.67137978616762,-1.81028458574301,MWh/day
+4,31,23-25,S4-S3_high_minus_low_dist,solar_curt_MWh,0,0,0,0,MWh/day
+4,31,23-25,S4-S3_high_minus_low_dist,wind_curt_MWh,0,0,0,0,MWh/day
+4,31,23-25,S4-S3_high_minus_low_dist,curtailed_hours,0,0,0,0,h/day
+4,31,23-25,S4-S3_high_minus_low_dist,LCP80_branch_26_30_pp,0,0,0,0,percentage points
+5,155,94-100,S1-S3_low_conc_minus_dist,daily_cost,-796.490104384348,861.397330228371,-2690.73773523863,696.647121158626,currency/day
+5,155,94-100,S1-S3_low_conc_minus_dist,daily_loss_MWh,8.07523754812071,0.871799718226143,6.47439203830313,9.87767027658,MWh/day
+5,155,94-100,S1-S3_low_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+5,155,94-100,S1-S3_low_conc_minus_dist,wind_curt_MWh,0,0,0,0,MWh/day
+5,155,94-100,S1-S3_low_conc_minus_dist,curtailed_hours,0,0,0,0,h/day
+5,155,94-100,S1-S3_low_conc_minus_dist,LCP80_branch_26_30_pp,1.39583333333333,0.390646787969518,0.6875,2.17708333333333,percentage points
+5,155,94-100,S2-S4_high_conc_minus_dist,daily_cost,-93.5726209527982,1760.03720601938,-3221.51272164012,3243.53636690372,currency/day
+5,155,94-100,S2-S4_high_conc_minus_dist,daily_loss_MWh,69.7918879362567,3.13585685429219,63.9152927158768,76.4930443515139,MWh/day
+5,155,94-100,S2-S4_high_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+5,155,94-100,S2-S4_high_conc_minus_dist,wind_curt_MWh,0.892101117988741,0.460890659157689,0.169554719854578,1.96610566207887,MWh/day
+5,155,94-100,S2-S4_high_conc_minus_dist,curtailed_hours,0.0425,0.0199983240780787,0.00500000000000005,0.085,h/day
+5,155,94-100,S2-S4_high_conc_minus_dist,LCP80_branch_26_30_pp,1.89583333333333,0.527946230031734,0.916666666666667,2.875,percentage points
+5,155,94-100,S2-S1_high_minus_low_conc,daily_cost,-43815.6250671352,1151.2072521168,-45814.0170870456,-41527.9262098944,currency/day
+5,155,94-100,S2-S1_high_minus_low_conc,daily_loss_MWh,61.1328773800551,3.04412572736832,55.5448876746504,67.4698777473798,MWh/day
+5,155,94-100,S2-S1_high_minus_low_conc,solar_curt_MWh,0,0,0,0,MWh/day
+5,155,94-100,S2-S1_high_minus_low_conc,wind_curt_MWh,0.892101117988741,0.451662310690437,0.169554719854578,1.89188499807908,MWh/day
+5,155,94-100,S2-S1_high_minus_low_conc,curtailed_hours,0.0425,0.0215048789729047,0.005,0.09,h/day
+5,155,94-100,S2-S1_high_minus_low_conc,LCP80_branch_26_30_pp,3.69791666666667,0.317141929572703,3.08333333333333,4.32291666666667,percentage points
+5,155,94-100,S4-S3_high_minus_low_dist,daily_cost,-44518.5425505667,932.574668875489,-46360.2941234939,-42761.5352733077,currency/day
+5,155,94-100,S4-S3_high_minus_low_dist,daily_loss_MWh,-0.583773008080807,1.05921574361547,-2.581097767803,1.58898714069192,MWh/day
+5,155,94-100,S4-S3_high_minus_low_dist,solar_curt_MWh,0,0,0,0,MWh/day
+5,155,94-100,S4-S3_high_minus_low_dist,wind_curt_MWh,0,0,0,0,MWh/day
+5,155,94-100,S4-S3_high_minus_low_dist,curtailed_hours,0,0,0,0,h/day
+5,155,94-100,S4-S3_high_minus_low_dist,LCP80_branch_26_30_pp,3.19791666666667,0.222327827117611,2.78125,3.65625,percentage points
+6,150,94-96,S1-S3_low_conc_minus_dist,daily_cost,-875.768488008393,935.903115876801,-2697.15127678694,1041.35975922004,currency/day
+6,150,94-96,S1-S3_low_conc_minus_dist,daily_loss_MWh,7.31850782455775,1.01751481563839,5.27275510056363,9.35253876840126,MWh/day
+6,150,94-96,S1-S3_low_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+6,150,94-96,S1-S3_low_conc_minus_dist,wind_curt_MWh,0,0,0,0,MWh/day
+6,150,94-96,S1-S3_low_conc_minus_dist,curtailed_hours,0,0,0,0,h/day
+6,150,94-96,S1-S3_low_conc_minus_dist,LCP80_branch_26_30_pp,0.90625,0.316602013229026,0.302083333333334,1.53125,percentage points
+6,150,94-96,S2-S4_high_conc_minus_dist,daily_cost,-202.14137544258,1674.78968118215,-3444.47129425117,3091.46963017132,currency/day
+6,150,94-96,S2-S4_high_conc_minus_dist,daily_loss_MWh,66.4192314798037,3.03332368114013,60.579187978752,72.2475332163216,MWh/day
+6,150,94-96,S2-S4_high_conc_minus_dist,solar_curt_MWh,0,0,0,0,MWh/day
+6,150,94-96,S2-S4_high_conc_minus_dist,wind_curt_MWh,0.442093717051623,0.237033044684292,0.0465879763675539,0.954233418134622,MWh/day
+6,150,94-96,S2-S4_high_conc_minus_dist,curtailed_hours,0.0275,0.015076126132343,0.0025,0.0625,h/day
+6,150,94-96,S2-S4_high_conc_minus_dist,LCP80_branch_26_30_pp,2.23958333333333,0.527860992255786,1.27083333333333,3.19791666666667,percentage points
+6,150,94-96,S2-S1_high_minus_low_conc,daily_cost,-44010.7891174125,1200.39831296969,-46223.7928324799,-41479.8487929227,currency/day
+6,150,94-96,S2-S1_high_minus_low_conc,daily_loss_MWh,54.3408563918735,2.79584629367009,48.6801165221214,59.5242508410886,MWh/day
+6,150,94-96,S2-S1_high_minus_low_conc,solar_curt_MWh,0,0,0,0,MWh/day
+6,150,94-96,S2-S1_high_minus_low_conc,wind_curt_MWh,0.442093717051623,0.236911679471517,0.0465879763675537,0.965634383006442,MWh/day
+6,150,94-96,S2-S1_high_minus_low_conc,curtailed_hours,0.0275,0.0159573038478367,0.0025,0.065,h/day
+6,150,94-96,S2-S1_high_minus_low_conc,LCP80_branch_26_30_pp,3.91666666666667,0.330393700117736,3.32291666666667,4.65625,percentage points
+6,150,94-96,S4-S3_high_minus_low_dist,daily_cost,-44684.4162299783,976.73730229027,-46624.6476741072,-42568.1138816175,currency/day
+6,150,94-96,S4-S3_high_minus_low_dist,daily_loss_MWh,-4.7598672633725,0.887332875280093,-6.42092675655251,-3.00782722629824,MWh/day
+6,150,94-96,S4-S3_high_minus_low_dist,solar_curt_MWh,0,0,0,0,MWh/day
+6,150,94-96,S4-S3_high_minus_low_dist,wind_curt_MWh,0,0,0,0,MWh/day
+6,150,94-96,S4-S3_high_minus_low_dist,curtailed_hours,0,0,0,0,h/day
+6,150,94-96,S4-S3_high_minus_low_dist,LCP80_branch_26_30_pp,2.58333333333333,0.171271966696041,2.25,2.9375,percentage points

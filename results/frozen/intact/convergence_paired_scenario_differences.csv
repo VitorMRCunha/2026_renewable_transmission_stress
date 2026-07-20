@@ -1,0 +1,193 @@
+N_requested,N_valid_pairs,contrast,contrast_label,metric,estimate_A_minus_B,bootstrap_se,ci_low,ci_high,unit
+50,50,S1_minus_S3,Low penetration: concentrated minus distributed,daily_cost,306.512796729412,1848.58199484769,-3598.93867319735,3889.12333516835,currency/day
+50,50,S1_minus_S3,Low penetration: concentrated minus distributed,daily_loss_MWh,7.30781196801197,2.09079651852768,3.06938184058303,11.2630012715009,MWh/day
+50,50,S1_minus_S3,Low penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+50,50,S1_minus_S3,Low penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+50,50,S1_minus_S3,Low penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+50,50,S1_minus_S3,Low penetration: concentrated minus distributed,LCP80_interaction_branch_pp,2.08333333333333,1.10935296336678,-0.0833333333333334,4.25,percentage points
+50,50,S2_minus_S4,High penetration: concentrated minus distributed,daily_cost,1881.94133665743,3474.92977205396,-4622.24532123761,8807.33374240083,currency/day
+50,50,S2_minus_S4,High penetration: concentrated minus distributed,daily_loss_MWh,61.9753332154242,6.71684821450457,48.4840834552828,74.5346678315045,MWh/day
+50,50,S2_minus_S4,High penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+50,50,S2_minus_S4,High penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+50,50,S2_minus_S4,High penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+50,50,S2_minus_S4,High penetration: concentrated minus distributed,LCP80_interaction_branch_pp,4.25,1.61981460295895,1,7.33333333333333,percentage points
+50,50,S2_minus_S1,Concentrated: high minus low penetration,daily_cost,-37495.3576351307,2877.79426693992,-43254.1780375558,-31830.9039982967,currency/day
+50,50,S2_minus_S1,Concentrated: high minus low penetration,daily_loss_MWh,51.5029319444237,6.61120528270387,38.8409031120374,64.135440808798,MWh/day
+50,50,S2_minus_S1,Concentrated: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+50,50,S2_minus_S1,Concentrated: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+50,50,S2_minus_S1,Concentrated: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+50,50,S2_minus_S1,Concentrated: high minus low penetration,LCP80_interaction_branch_pp,4.75,0.837289238284074,3.25,6.375,percentage points
+50,50,S4_minus_S3,Distributed: high minus low penetration,daily_cost,-39070.7861750587,2237.98952501873,-43360.472694122,-34287.3868827187,currency/day
+50,50,S4_minus_S3,Distributed: high minus low penetration,daily_loss_MWh,-3.16458930298859,2.13161737506241,-7.45273133405183,1.0964877692551,MWh/day
+50,50,S4_minus_S3,Distributed: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+50,50,S4_minus_S3,Distributed: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+50,50,S4_minus_S3,Distributed: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+50,50,S4_minus_S3,Distributed: high minus low penetration,LCP80_interaction_branch_pp,2.58333333333333,0.617058550147282,1.41666666666667,3.79166666666667,percentage points
+100,100,S1_minus_S3,Low penetration: concentrated minus distributed,daily_cost,597.824437430621,1380.87697077139,-2116.8206234118,3320.43990112297,currency/day
+100,100,S1_minus_S3,Low penetration: concentrated minus distributed,daily_loss_MWh,7.89329891841313,1.7705367844749,4.27475690945288,11.131639198863,MWh/day
+100,100,S1_minus_S3,Low penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+100,100,S1_minus_S3,Low penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+100,100,S1_minus_S3,Low penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+100,100,S1_minus_S3,Low penetration: concentrated minus distributed,LCP80_interaction_branch_pp,3.08333333333333,0.872280191284376,1.41666666666667,4.83333333333333,percentage points
+100,100,S2_minus_S4,High penetration: concentrated minus distributed,daily_cost,2455.00188940799,2800.31711990979,-2901.90019546463,7946.62406019631,currency/day
+100,100,S2_minus_S4,High penetration: concentrated minus distributed,daily_loss_MWh,61.8471249858348,4.74379771805876,52.049860551624,70.16304279127,MWh/day
+100,100,S2_minus_S4,High penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+100,100,S2_minus_S4,High penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+100,100,S2_minus_S4,High penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+100,100,S2_minus_S4,High penetration: concentrated minus distributed,LCP80_interaction_branch_pp,4.33333333333333,1.15651151312518,2.14583333333333,6.625,percentage points
+100,100,S2_minus_S1,Concentrated: high minus low penetration,daily_cost,-39311.534612105,2153.05054514162,-43561.3878902035,-35202.1458106956,currency/day
+100,100,S2_minus_S1,Concentrated: high minus low penetration,daily_loss_MWh,53.3071683919513,4.7133499113234,44.4968783034944,62.5554829327917,MWh/day
+100,100,S2_minus_S1,Concentrated: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+100,100,S2_minus_S1,Concentrated: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+100,100,S2_minus_S1,Concentrated: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+100,100,S2_minus_S1,Concentrated: high minus low penetration,LCP80_interaction_branch_pp,4.625,0.643596114822464,3.5,5.875,percentage points
+100,100,S4_minus_S3,Distributed: high minus low penetration,daily_cost,-41168.7120640823,1651.56077477497,-44481.1714164408,-37930.0642792634,currency/day
+100,100,S4_minus_S3,Distributed: high minus low penetration,daily_loss_MWh,-0.646657675470401,1.88688924685655,-4.32014141044339,3.14572091539659,MWh/day
+100,100,S4_minus_S3,Distributed: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+100,100,S4_minus_S3,Distributed: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+100,100,S4_minus_S3,Distributed: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+100,100,S4_minus_S3,Distributed: high minus low penetration,LCP80_interaction_branch_pp,3.375,0.479129600994918,2.47916666666667,4.25,percentage points
+200,200,S1_minus_S3,Low penetration: concentrated minus distributed,daily_cost,-1273.99996074451,1143.05196406106,-3460.51258145804,941.84070968734,currency/day
+200,200,S1_minus_S3,Low penetration: concentrated minus distributed,daily_loss_MWh,7.09307368210558,1.29337273022379,4.573964211228,9.57682880303785,MWh/day
+200,200,S1_minus_S3,Low penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+200,200,S1_minus_S3,Low penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+200,200,S1_minus_S3,Low penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+200,200,S1_minus_S3,Low penetration: concentrated minus distributed,LCP80_interaction_branch_pp,2.6875,0.554084167318293,1.61458333333333,3.82291666666667,percentage points
+200,200,S2_minus_S4,High penetration: concentrated minus distributed,daily_cost,-1090.9037560803,2323.76194090734,-5711.04936329392,3469.59460237475,currency/day
+200,200,S2_minus_S4,High penetration: concentrated minus distributed,daily_loss_MWh,65.2785735097088,4.30189603756003,56.6852803581854,73.5688149950802,MWh/day
+200,200,S2_minus_S4,High penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+200,200,S2_minus_S4,High penetration: concentrated minus distributed,daily_wind_curt_MWh,0.189955116264538,0.192075193907157,0,0.569865348793613,MWh/day
+200,200,S2_minus_S4,High penetration: concentrated minus distributed,curtailed_hours,0.02,0.0195332831123995,0,0.06,h/day
+200,200,S2_minus_S4,High penetration: concentrated minus distributed,LCP80_interaction_branch_pp,4.02083333333333,0.914225840979896,2.4375,5.97916666666667,percentage points
+200,200,S2_minus_S1,Concentrated: high minus low penetration,daily_cost,-41870.8559864037,1627.91060314324,-45068.1350132119,-38681.4365522791,currency/day
+200,200,S2_minus_S1,Concentrated: high minus low penetration,daily_loss_MWh,57.0050971948381,4.49093559331653,48.1109458805466,66.4445968042531,MWh/day
+200,200,S2_minus_S1,Concentrated: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+200,200,S2_minus_S1,Concentrated: high minus low penetration,daily_wind_curt_MWh,0.189955116264538,0.192577655071091,0,0.759820465058151,MWh/day
+200,200,S2_minus_S1,Concentrated: high minus low penetration,curtailed_hours,0.02,0.0201097688401136,0,0.06,h/day
+200,200,S2_minus_S1,Concentrated: high minus low penetration,LCP80_interaction_branch_pp,5.125,0.622897280340177,3.875,6.3125,percentage points
+200,200,S4_minus_S3,Distributed: high minus low penetration,daily_cost,-42053.9521910679,1327.12070705645,-44671.9658926424,-39455.3392662363,currency/day
+200,200,S4_minus_S3,Distributed: high minus low penetration,daily_loss_MWh,-1.18040263276513,1.38740841852484,-3.68823982274675,1.72101695907728,MWh/day
+200,200,S4_minus_S3,Distributed: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+200,200,S4_minus_S3,Distributed: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+200,200,S4_minus_S3,Distributed: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+200,200,S4_minus_S3,Distributed: high minus low penetration,LCP80_interaction_branch_pp,3.79166666666667,0.371231256738051,3.0625,4.54166666666667,percentage points
+400,400,S1_minus_S3,Low penetration: concentrated minus distributed,daily_cost,87.9245429625237,884.611989722152,-1636.78008186688,1793.30715701155,currency/day
+400,400,S1_minus_S3,Low penetration: concentrated minus distributed,daily_loss_MWh,7.9269010892666,0.90581432523243,6.12312014949407,9.68185976318815,MWh/day
+400,400,S1_minus_S3,Low penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+400,400,S1_minus_S3,Low penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+400,400,S1_minus_S3,Low penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+400,400,S1_minus_S3,Low penetration: concentrated minus distributed,LCP80_interaction_branch_pp,2.54166666666667,0.395782923905889,1.81770833333333,3.359375,percentage points
+400,400,S2_minus_S4,High penetration: concentrated minus distributed,daily_cost,1520.4568780847,1629.86251020258,-1893.41230784006,4571.57188371584,currency/day
+400,400,S2_minus_S4,High penetration: concentrated minus distributed,daily_loss_MWh,63.7761203767509,2.77377208534451,58.5033401868617,69.2435186665366,MWh/day
+400,400,S2_minus_S4,High penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+400,400,S2_minus_S4,High penetration: concentrated minus distributed,daily_wind_curt_MWh,0.098109091419509,0.0936292185777377,0,0.292761507614907,MWh/day
+400,400,S2_minus_S4,High penetration: concentrated minus distributed,curtailed_hours,0.0125,0.0101459910745518,0,0.035,h/day
+400,400,S2_minus_S4,High penetration: concentrated minus distributed,LCP80_interaction_branch_pp,3.34375,0.673399761532267,2.03645833333333,4.67708333333333,percentage points
+400,400,S2_minus_S1,Concentrated: high minus low penetration,daily_cost,-41895.8619879319,1170.33078966512,-44112.5992979381,-39570.0540077605,currency/day
+400,400,S2_minus_S1,Concentrated: high minus low penetration,daily_loss_MWh,55.0856852100343,2.88693719020873,49.5092399556266,60.5989850324351,MWh/day
+400,400,S2_minus_S1,Concentrated: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+400,400,S2_minus_S1,Concentrated: high minus low penetration,daily_wind_curt_MWh,0.098109091419509,0.0928357787860617,0,0.291195740971287,MWh/day
+400,400,S2_minus_S1,Concentrated: high minus low penetration,curtailed_hours,0.0125,0.0106332619647035,0,0.04,h/day
+400,400,S2_minus_S1,Concentrated: high minus low penetration,LCP80_interaction_branch_pp,4.84375,0.402664167017814,4.07291666666667,5.640625,percentage points
+400,400,S4_minus_S3,Distributed: high minus low penetration,daily_cost,-43328.394323054,971.334379523701,-45360.7203169635,-41508.1942288072,currency/day
+400,400,S4_minus_S3,Distributed: high minus low penetration,daily_loss_MWh,-0.763534077449953,0.985594034956171,-2.74046754635668,1.148432592788,MWh/day
+400,400,S4_minus_S3,Distributed: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+400,400,S4_minus_S3,Distributed: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+400,400,S4_minus_S3,Distributed: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+400,400,S4_minus_S3,Distributed: high minus low penetration,LCP80_interaction_branch_pp,4.04166666666667,0.282905920067848,3.47916666666667,4.578125,percentage points
+800,800,S1_minus_S3,Low penetration: concentrated minus distributed,daily_cost,-1341.61644119541,606.821708005945,-2551.27530679636,-165.128742732638,currency/day
+800,800,S1_minus_S3,Low penetration: concentrated minus distributed,daily_loss_MWh,7.35314559909023,0.655735694617582,6.0772388151063,8.5860355148676,MWh/day
+800,800,S1_minus_S3,Low penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+800,800,S1_minus_S3,Low penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+800,800,S1_minus_S3,Low penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+800,800,S1_minus_S3,Low penetration: concentrated minus distributed,LCP80_interaction_branch_pp,3.02604166666667,0.304223160377877,2.453125,3.63802083333333,percentage points
+800,800,S2_minus_S4,High penetration: concentrated minus distributed,daily_cost,-1216.65581278454,1183.53143258016,-3538.43228730013,982.375160926539,currency/day
+800,800,S2_minus_S4,High penetration: concentrated minus distributed,daily_loss_MWh,66.769117048288,2.057762859985,62.8657261105586,70.9134679065843,MWh/day
+800,800,S2_minus_S4,High penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+800,800,S2_minus_S4,High penetration: concentrated minus distributed,daily_wind_curt_MWh,0.0928402604326656,0.0541228958662616,0.0126054441826186,0.225961706867919,MWh/day
+800,800,S2_minus_S4,High penetration: concentrated minus distributed,curtailed_hours,0.0125,0.00609566387324265,0.0025,0.02625,h/day
+800,800,S2_minus_S4,High penetration: concentrated minus distributed,LCP80_interaction_branch_pp,4.03125,0.466689652140022,3.1171875,4.91666666666667,percentage points
+800,800,S2_minus_S1,Concentrated: high minus low penetration,daily_cost,-43591.0997251112,829.811422264019,-45173.7956579528,-42000.1576911189,currency/day
+800,800,S2_minus_S1,Concentrated: high minus low penetration,daily_loss_MWh,58.4299601495855,2.13236227965424,54.4144856978525,62.5594813601697,MWh/day
+800,800,S2_minus_S1,Concentrated: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+800,800,S2_minus_S1,Concentrated: high minus low penetration,daily_wind_curt_MWh,0.0928402604326656,0.0541759189986961,0.0105674142944655,0.221990623871342,MWh/day
+800,800,S2_minus_S1,Concentrated: high minus low penetration,curtailed_hours,0.0125,0.00628580323107236,0.0025,0.02625,h/day
+800,800,S2_minus_S1,Concentrated: high minus low penetration,LCP80_interaction_branch_pp,4.8125,0.268032957524064,4.29947916666667,5.3359375,percentage points
+800,800,S4_minus_S3,Distributed: high minus low penetration,daily_cost,-43716.060353522,674.875682020301,-45093.2829120551,-42401.6126491509,currency/day
+800,800,S4_minus_S3,Distributed: high minus low penetration,daily_loss_MWh,-0.986011299612219,0.671439174505632,-2.24883217084261,0.309928745071189,MWh/day
+800,800,S4_minus_S3,Distributed: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+800,800,S4_minus_S3,Distributed: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+800,800,S4_minus_S3,Distributed: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+800,800,S4_minus_S3,Distributed: high minus low penetration,LCP80_interaction_branch_pp,3.80729166666667,0.197538664894483,3.42447916666667,4.21614583333333,percentage points
+1200,1200,S1_minus_S3,Low penetration: concentrated minus distributed,daily_cost,-1083.9498578031,516.149111620407,-2156.48395504524,-73.7607197840227,currency/day
+1200,1200,S1_minus_S3,Low penetration: concentrated minus distributed,daily_loss_MWh,7.88181552114071,0.547623050239067,6.88368023219874,8.96105372311592,MWh/day
+1200,1200,S1_minus_S3,Low penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+1200,1200,S1_minus_S3,Low penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+1200,1200,S1_minus_S3,Low penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+1200,1200,S1_minus_S3,Low penetration: concentrated minus distributed,LCP80_interaction_branch_pp,2.77777777777778,0.233370317620953,2.30902777777778,3.22916666666667,percentage points
+1200,1200,S2_minus_S4,High penetration: concentrated minus distributed,daily_cost,-668.287376855681,951.920283036823,-2591.50179222679,1190.26890328212,currency/day
+1200,1200,S2_minus_S4,High penetration: concentrated minus distributed,daily_loss_MWh,68.131034259553,1.66951573332642,64.9690918031249,71.3045905910411,MWh/day
+1200,1200,S2_minus_S4,High penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+1200,1200,S2_minus_S4,High penetration: concentrated minus distributed,daily_wind_curt_MWh,0.184587577442618,0.0655458299617662,0.0674724654886784,0.320497804722101,MWh/day
+1200,1200,S2_minus_S4,High penetration: concentrated minus distributed,curtailed_hours,0.0225,0.00732026298291447,0.01,0.03875,h/day
+1200,1200,S2_minus_S4,High penetration: concentrated minus distributed,LCP80_interaction_branch_pp,3.76388888888889,0.364494683983243,3.02951388888889,4.47395833333333,percentage points
+1200,1200,S2_minus_S1,Concentrated: high minus low penetration,daily_cost,-43593.9676771575,710.603437811211,-44967.2522514082,-42126.1759994197,currency/day
+1200,1200,S2_minus_S1,Concentrated: high minus low penetration,daily_loss_MWh,58.6985528071512,1.77049909549925,55.2965778701978,62.3858596835661,MWh/day
+1200,1200,S2_minus_S1,Concentrated: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+1200,1200,S2_minus_S1,Concentrated: high minus low penetration,daily_wind_curt_MWh,0.184587577442618,0.0650221851637309,0.0720387813492469,0.322514085920236,MWh/day
+1200,1200,S2_minus_S1,Concentrated: high minus low penetration,curtailed_hours,0.0225,0.00723975575340249,0.01,0.0383333333333333,h/day
+1200,1200,S2_minus_S1,Concentrated: high minus low penetration,LCP80_interaction_branch_pp,4.79513888888889,0.209458376804789,4.38020833333333,5.20486111111111,percentage points
+1200,1200,S4_minus_S3,Distributed: high minus low penetration,daily_cost,-44009.6301581049,554.31478786433,-45134.6734547888,-42955.7298900359,currency/day
+1200,1200,S4_minus_S3,Distributed: high minus low penetration,daily_loss_MWh,-1.5506659312611,0.556181052881698,-2.5892685555301,-0.423551378484623,MWh/day
+1200,1200,S4_minus_S3,Distributed: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+1200,1200,S4_minus_S3,Distributed: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+1200,1200,S4_minus_S3,Distributed: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+1200,1200,S4_minus_S3,Distributed: high minus low penetration,LCP80_interaction_branch_pp,3.80902777777778,0.157976616976066,3.50694444444445,4.11805555555556,percentage points
+1600,1600,S1_minus_S3,Low penetration: concentrated minus distributed,daily_cost,-1730.47379884223,443.676967365133,-2638.03679270237,-880.642371767223,currency/day
+1600,1600,S1_minus_S3,Low penetration: concentrated minus distributed,daily_loss_MWh,7.07968796729374,0.488729515614473,6.1847164142123,8.00594923102681,MWh/day
+1600,1600,S1_minus_S3,Low penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+1600,1600,S1_minus_S3,Low penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+1600,1600,S1_minus_S3,Low penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+1600,1600,S1_minus_S3,Low penetration: concentrated minus distributed,LCP80_interaction_branch_pp,3.01822916666667,0.216952753134736,2.59635416666667,3.43619791666667,percentage points
+1600,1600,S2_minus_S4,High penetration: concentrated minus distributed,daily_cost,-1927.61959564566,864.126083039776,-3647.91688424662,-176.900199309493,currency/day
+1600,1600,S2_minus_S4,High penetration: concentrated minus distributed,daily_loss_MWh,67.5268969134052,1.46598174322773,64.5671563459576,70.2172929961602,MWh/day
+1600,1600,S2_minus_S4,High penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+1600,1600,S2_minus_S4,High penetration: concentrated minus distributed,daily_wind_curt_MWh,0.178194892249658,0.0573373129338763,0.0768331623245167,0.296562014363659,MWh/day
+1600,1600,S2_minus_S4,High penetration: concentrated minus distributed,curtailed_hours,0.02125,0.00601728551029552,0.010625,0.034375,h/day
+1600,1600,S2_minus_S4,High penetration: concentrated minus distributed,LCP80_interaction_branch_pp,4.19010416666667,0.322632053448757,3.55598958333333,4.84505208333333,percentage points
+1600,1600,S2_minus_S1,Concentrated: high minus low penetration,daily_cost,-44239.5317107271,626.261990041214,-45511.0340645532,-43067.7709313125,currency/day
+1600,1600,S2_minus_S1,Concentrated: high minus low penetration,daily_loss_MWh,59.2777491061268,1.60754008873029,56.0796492528369,62.422950514675,MWh/day
+1600,1600,S2_minus_S1,Concentrated: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+1600,1600,S2_minus_S1,Concentrated: high minus low penetration,daily_wind_curt_MWh,0.178194892249658,0.055688611650334,0.0775105776490686,0.294053583537953,MWh/day
+1600,1600,S2_minus_S1,Concentrated: high minus low penetration,curtailed_hours,0.02125,0.00619626234956241,0.01125,0.0353125,h/day
+1600,1600,S2_minus_S1,Concentrated: high minus low penetration,LCP80_interaction_branch_pp,5.015625,0.186663239179074,4.65885416666667,5.41145833333333,percentage points
+1600,1600,S4_minus_S3,Distributed: high minus low penetration,daily_cost,-44042.3859139236,493.556218064982,-45015.0116631938,-43108.3111194914,currency/day
+1600,1600,S4_minus_S3,Distributed: high minus low penetration,daily_loss_MWh,-1.16945983998457,0.484614489821272,-2.09003214321748,-0.171797151272003,MWh/day
+1600,1600,S4_minus_S3,Distributed: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+1600,1600,S4_minus_S3,Distributed: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+1600,1600,S4_minus_S3,Distributed: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+1600,1600,S4_minus_S3,Distributed: high minus low penetration,LCP80_interaction_branch_pp,3.84375,0.135670218714655,3.56901041666667,4.11979166666667,percentage points
+2000,2000,S1_minus_S3,Low penetration: concentrated minus distributed,daily_cost,-1933.16330275335,426.259000300476,-2827.47851274878,-1144.71262335891,currency/day
+2000,2000,S1_minus_S3,Low penetration: concentrated minus distributed,daily_loss_MWh,6.88938479268122,0.443960947631201,6.03696922672419,7.79956469904077,MWh/day
+2000,2000,S1_minus_S3,Low penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+2000,2000,S1_minus_S3,Low penetration: concentrated minus distributed,daily_wind_curt_MWh,0,0,0,0,MWh/day
+2000,2000,S1_minus_S3,Low penetration: concentrated minus distributed,curtailed_hours,0,0,0,0,h/day
+2000,2000,S1_minus_S3,Low penetration: concentrated minus distributed,LCP80_interaction_branch_pp,2.9875,0.191688027769327,2.62291666666667,3.36875,percentage points
+2000,2000,S2_minus_S4,High penetration: concentrated minus distributed,daily_cost,-2312.39177260282,784.574440808219,-3860.04403279174,-788.951066628518,currency/day
+2000,2000,S2_minus_S4,High penetration: concentrated minus distributed,daily_loss_MWh,67.6350684766813,1.37063003084043,64.8995928706525,70.1670588478501,MWh/day
+2000,2000,S2_minus_S4,High penetration: concentrated minus distributed,daily_solar_curt_MWh,0,0,0,0,MWh/day
+2000,2000,S2_minus_S4,High penetration: concentrated minus distributed,daily_wind_curt_MWh,0.180546937052634,0.0519350602376246,0.0875753753202917,0.282669035907399,MWh/day
+2000,2000,S2_minus_S4,High penetration: concentrated minus distributed,curtailed_hours,0.021,0.00561954170720345,0.011,0.033,h/day
+2000,2000,S2_minus_S4,High penetration: concentrated minus distributed,LCP80_interaction_branch_pp,4.3125,0.308706603628583,3.69479166666667,4.95416666666667,percentage points
+2000,2000,S2_minus_S1,Concentrated: high minus low penetration,daily_cost,-44646.352700292,597.73075504093,-45873.6513219462,-43564.9383326996,currency/day
+2000,2000,S2_minus_S1,Concentrated: high minus low penetration,daily_loss_MWh,59.7828873802188,1.42443682861369,56.9240544747512,62.5038226203994,MWh/day
+2000,2000,S2_minus_S1,Concentrated: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+2000,2000,S2_minus_S1,Concentrated: high minus low penetration,daily_wind_curt_MWh,0.180546937052634,0.0508018545729513,0.0884039724753881,0.280349486153688,MWh/day
+2000,2000,S2_minus_S1,Concentrated: high minus low penetration,curtailed_hours,0.021,0.00544305528640403,0.011,0.03225,h/day
+2000,2000,S2_minus_S1,Concentrated: high minus low penetration,LCP80_interaction_branch_pp,5.09375,0.177127889446511,4.75208333333333,5.45729166666667,percentage points
+2000,2000,S4_minus_S3,Distributed: high minus low penetration,daily_cost,-44267.1242304425,434.407774422676,-45145.238151724,-43425.3365477992,currency/day
+2000,2000,S4_minus_S3,Distributed: high minus low penetration,daily_loss_MWh,-0.962796303781207,0.486401635808241,-1.91234639434206,-0.0127968788850804,MWh/day
+2000,2000,S4_minus_S3,Distributed: high minus low penetration,daily_solar_curt_MWh,0,0,0,0,MWh/day
+2000,2000,S4_minus_S3,Distributed: high minus low penetration,daily_wind_curt_MWh,0,0,0,0,MWh/day
+2000,2000,S4_minus_S3,Distributed: high minus low penetration,curtailed_hours,0,0,0,0,h/day
+2000,2000,S4_minus_S3,Distributed: high minus low penetration,LCP80_interaction_branch_pp,3.76875,0.122579400189607,3.52916666666667,4.01145833333333,percentage points

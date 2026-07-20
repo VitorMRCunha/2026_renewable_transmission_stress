@@ -1,0 +1,2 @@
+case_file,n_buses,n_branches,n_generators,n_contingencies,n_hours,peak_frac,parallel_used,n_islanding_outages,n_connected_outages_with_OPF_failure,successful_contingency_OPFs,attempted_connected_contingency_OPFs,baseline_mean_cost,baseline_mean_loss_MW,baseline_max_loading_pct,baseline_min_VM_pu,baseline_max_VM_pu,screening_wall_time_s
+case_pglib_opf_case118_ieee.m,118,186,54,186,24,0.7,1,9,0,4248,4248,48693.8235845385,56.2205016446071,100.000001273224,0.987411927388394,1.05999999955327,199.9558586

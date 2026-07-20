@@ -1,0 +1,2 @@
+Ns,hours,bootstrap_replicates,n_peak_levels,n_scenarios,requested_stochastic_opfs,successful_all_rows_including_baselines,failed_all_rows_including_baselines,total_accumulated_solver_time_s,structural_screen_threshold_LCP80_pct,res_sensitive_screen_threshold_DeltaLCP80_pp
+400,24,500,5,4,192000,192120,0,67806.0972749,50,2
