@@ -2,10 +2,7 @@
 
 Reproducibility package for:
 
-**Separating Structural and Renewable-Driven Transmission Stress Using Multi-Site Weather, Monte Carlo AC-OPF, and Targeted N-1 Screening**
-
-Authors: Filipe Azevedo and Vitor M. R. Cunha  
-Institution: ISEP, Polytechnic of Porto, Portugal
+**Structural and Renewable-Driven Transmission Stress Using Multi-Site Weather, Monte Carlo AC-OPF, and Targeted N-1 Screening**
 
 ## Purpose
 
