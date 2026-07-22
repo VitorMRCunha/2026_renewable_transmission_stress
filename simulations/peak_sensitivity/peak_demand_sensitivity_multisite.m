@@ -73,7 +73,7 @@ if ~exist(weather_mat,'file'), error('Missing %s.',weather_mat); end
 if ~exist(solar_temporal_csv,'file'), error('Missing %s.',solar_temporal_csv); end
 if ~exist(case_file,'file'), error('Missing %s.',case_file); end
 
-outdir = fullfile('results_paper','peak_sensitivity_bothends');
+outdir = fullfile('results_paper','peak_sensitivity');
 if ~exist(outdir,'dir'), mkdir(outdir); end
 
 %% -------------------------------------------------------------------------
