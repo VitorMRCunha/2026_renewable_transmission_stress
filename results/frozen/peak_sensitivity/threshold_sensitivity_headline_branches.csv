@@ -1,0 +1,19 @@
+structural_threshold_pct,renewable_threshold_pp,branch_idx,from_bus,to_bus,min_base_LCP80_pct,max_base_LCP80_pct,max_DeltaLCP80_pp,persistent_structural,demand_dependent_structural,renewable_sensitive,classification,branch
+40,1,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+40,1,155,94,100,100,100,0,1,0,0,persistent structural,94--100
+40,2,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+40,2,155,94,100,100,100,0,1,0,0,persistent structural,94--100
+40,3,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+40,3,155,94,100,100,100,0,1,0,0,persistent structural,94--100
+50,1,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+50,1,155,94,100,100,100,0,1,0,0,persistent structural,94--100
+50,2,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+50,2,155,94,100,100,100,0,1,0,0,persistent structural,94--100
+50,3,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+50,3,155,94,100,100,100,0,1,0,0,persistent structural,94--100
+60,1,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+60,1,155,94,100,100,100,0,1,0,0,persistent structural,94--100
+60,2,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+60,2,155,94,100,100,100,0,1,0,0,persistent structural,94--100
+60,3,38,26,30,0,25,10.375,0,0,1,renewable-sensitive,26--30
+60,3,155,94,100,100,100,0,1,0,0,persistent structural,94--100
