@@ -21,7 +21,7 @@ peak-demand sensitivity.
 
 ## Publication status
 
-This is release candidate **v1.0.0-rc1**. 
+This is release candidate **v1.0.0-rc2**. 
 
 All publication results use the branch-loading definition based on
 the maximum apparent-power magnitude at either branch end:
